@@ -1,6 +1,6 @@
 <div style="background-color:white">
   <div align="center">
-    <img src="[./2_master_thesis/img/mad_logo.png](https://upload.wikimedia.org/wikipedia/de/3/31/Bosch-logotype.svg)" width="200">    
+    <img src="https://upload.wikimedia.org/wikipedia/de/3/31/Bosch-logotype.svg" width="200">    
     <h1 style="color:black">Bosch LinkedIn Scraper - Data Analysis</h1> 
     <h3 style="color:black">Tim Löhr<h3>
   </div>
