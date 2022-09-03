@@ -38,7 +38,7 @@ This projects to identify what skills companies require for certain job position
 
 ### Example
 
-![](https://github.com/mavengence/linkedin-job-scraper-data-analysis/example.png)
+![](https://github.com/Mavengence/linkedin-job-scraper-data-analysis/blob/master/example.png)
 
 ### Built With
 
