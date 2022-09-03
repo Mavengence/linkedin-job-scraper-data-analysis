@@ -38,7 +38,10 @@ This projects to identify what skills companies require for certain job position
 
 ### Example
 
-![](https://github.com/Mavengence/linkedin-job-scraper-data-analysis/blob/master/example.png)
+<div>
+    <a href="https://plotly.com/~Mavengence/42/?share_key=AtRQ9CIlWtPZ3jCGpgYLv9" target="_blank" title="df_skill_asso" style="display: block; text-align: center;"><img src="https://plotly.com/~Mavengence/42.png?share_key=AtRQ9CIlWtPZ3jCGpgYLv9" alt="df_skill_asso" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="Mavengence:42" sharekey-plotly="AtRQ9CIlWtPZ3jCGpgYLv9" src="https://plotly.com/embed.js" async></script>
+</div>
 
 ### Built With
 
